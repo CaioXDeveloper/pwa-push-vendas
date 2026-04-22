@@ -4,6 +4,14 @@ Repository: https://github.com/CaioXDeveloper/pwa-push-vendas.git
 
 Progressive Web App with a Node.js backend to manage Web Push subscriptions and send sales notifications.
 
+## Preview
+
+<div align="center">
+  <img src="./screenshots/img01.png" alt="Preview 1" width="45%" />
+  <img src="./screenshots/img02.png" alt="Preview 2" width="45%" />
+</div>
+
+
 ## Overview
 
 This project is a PWA with a Node.js backend to manage Web Push subscriptions and send sales notification events.
@@ -97,3 +105,9 @@ Open `http://localhost:3000`.
 - Persist subscriptions in a database
 - Do not commit `.env`
 - Add monitoring and rate limiting
+
+## Credits
+
+- Created by [CaioXDeveloper](https://github.com/CaioXDeveloper)
+- Portfolio: [https://port-caiox.vercel.app/](https://port-caiox.vercel.app/)
+
